@@ -11,7 +11,7 @@ A generative art piece created with p5.js, capturing the serene and beloved land
 This digital artwork features cosmic dust slowly drifting across a deep navy night sky, the silhouette of Mt. Chokai rendered in cyber-cyan neon lines, and a golden eagle dynamically soaring through the digital space.
 
 ## 動作デモ / Live Demo
-[ここに完成したGitHub PagesのURLを貼る]
+https://mof-space-dev.github.io/mt-chokai/
 
 ## 使用技術 / Technologies Used
 - JavaScript
