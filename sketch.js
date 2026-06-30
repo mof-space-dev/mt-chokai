@@ -16,7 +16,7 @@ let isRecording = false;
 
 function setup() {
   createCanvas(windowWidth, windowHeight); 
-  frameRate(40)
+  frameRate(30)
   // 星の初期位置を50個だけ生成（これなら超軽量です）
   for (let i = 0; i < 50; i++) {
     stars.push({
